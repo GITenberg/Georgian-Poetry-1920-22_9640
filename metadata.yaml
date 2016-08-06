@@ -1,0 +1,175 @@
+_repo: Georgian-Poetry-1920-22_9640
+_version: 0.0.1
+alternative_title: Georgian Poetry 1920-1922
+contributor:
+  contributors:
+  - agent_name: Squire, John Collings, Sir
+    aliases:
+    - Squire, Jack Collings
+    - Squire, J. C. (John Collings)
+    birthdate: &id001 1884
+    deathdate: 1958
+    gutenberg_agent_id: '35258'
+    url: http://www.gutenberg.org/2009/agents/35258
+    wikipedia: http://en.wikipedia.org/wiki/J._C._Squire
+  - agent_name: Shanks, Edward
+    birthdate: &id005 1892
+    deathdate: &id007 1953
+    gutenberg_agent_id: '32785'
+    url: http://www.gutenberg.org/2009/agents/32785
+  - agent_name: Young, Francis Brett
+    alias: Young, F. Brett (Francis Brett)
+    birthdate: *id001
+    deathdate: 1954
+    gutenberg_agent_id: '31627'
+    url: http://www.gutenberg.org/2009/agents/31627
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Brett_Young
+  - agent_name: Blunden, Edmund
+    aliases:
+    - Blunden, Edmund Charles
+    - Blunden, E. C. (Edmund Charles)
+    birthdate: 1896
+    deathdate: &id002 1974
+    gutenberg_agent_id: '35250'
+    url: http://www.gutenberg.org/2009/agents/35250
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Blunden
+  - agent_name: Davies, W. H. (William Henry)
+    aliases:
+    - Davies, William H. (William Henry)
+    - Davies, William Henry
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '3014'
+    url: http://www.gutenberg.org/2009/agents/3014
+    wikipedia: http://en.wikipedia.org/wiki/W._H._Davies
+  - agent_name: Hughes, Richard Arthur Warren
+    birthdate: 1900
+    deathdate: 1976
+    gutenberg_agent_id: '35251'
+    url: http://www.gutenberg.org/2009/agents/35251
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Hughes_(writer)
+  - agent_name: Nichols, Robert
+    alias: Nichols, Robert Malise Bowyer
+    birthdate: &id004 1893
+    deathdate: 1944
+    gutenberg_agent_id: '35254'
+    url: http://www.gutenberg.org/2009/agents/35254
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Nichols_(poet)
+  - agent_name: Pellow, J. D. C.
+    gutenberg_agent_id: '35255'
+    url: http://www.gutenberg.org/2009/agents/35255
+  - agent_name: De la Mare, Walter
+    aliases:
+    - De la Mare, Walter John
+    - Mare, Walter de la
+    - Ramal, Walter
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+  - agent_name: Armstrong, Martin
+    birthdate: &id003 1882
+    deathdate: *id002
+    gutenberg_agent_id: '35249'
+    url: http://www.gutenberg.org/2009/agents/35249
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Armstrong_(writer)
+  - agent_name: Abercrombie, Lascelles
+    birthdate: 1881
+    deathdate: 1938
+    gutenberg_agent_id: '3649'
+    url: http://www.gutenberg.org/2009/agents/3649
+    wikipedia: http://en.wikipedia.org/wiki/Lascelles_Abercrombie
+  - agent_name: Monro, Harold
+    birthdate: 1879
+    deathdate: 1932
+    gutenberg_agent_id: '35253'
+    url: http://www.gutenberg.org/2009/agents/35253
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Monro
+  - agent_name: Drinkwater, John
+    birthdate: *id003
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+  - agent_name: Freeman, John
+    birthdate: 1880
+    deathdate: 1929
+    gutenberg_agent_id: '4708'
+    url: http://www.gutenberg.org/2009/agents/4708
+    wikipedia: http://en.wikipedia.org/wiki/John_Freeman_(Georgian_poet)
+  - agent_name: Quennell, Peter
+    alias: Quennel, Peter
+    birthdate: 1905
+    deathdate: 1993
+    gutenberg_agent_id: '35257'
+    url: http://www.gutenberg.org/2009/agents/35257
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Quennell
+  - agent_name: Prewett, Frank
+    birthdate: *id004
+    deathdate: &id006 1962
+    gutenberg_agent_id: '35256'
+    url: http://www.gutenberg.org/2009/agents/35256
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Prewett
+  - agent_name: Graves, Robert
+    aliases:
+    - Ranke-Graves, Robert von
+    - Doyle, John
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '628'
+    url: http://www.gutenberg.org/2009/agents/628
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Graves
+  - agent_name: Sackville-West, Vita (Victoria Mary)
+    aliases:
+    - Sackville-West, Vita
+    - Nicolson, Victoria Mary Sackville-West
+    - Sackville-West, Victoria Mary (Vita)
+    birthdate: *id005
+    deathdate: *id006
+    gutenberg_agent_id: '34850'
+    url: http://www.gutenberg.org/2009/agents/34850
+    wikipedia: http://en.wikipedia.org/wiki/Vita_Sackville-West
+  - agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+  - agent_name: Kerr, William
+    gutenberg_agent_id: '35252'
+    url: http://www.gutenberg.org/2009/agents/35252
+  - agent_name: Gibson, Wilfrid Wilson
+    alias: Gibson, W. W. (Wilfrid Wilson)
+    birthdate: 1878
+    deathdate: *id006
+    gutenberg_agent_id: '8220'
+    url: http://www.gutenberg.org/2009/agents/8220
+    wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
+creator:
+  editor:
+    agent_name: Marsh, Edward Howard, Sir
+    birthdate: 1872
+    deathdate: *id007
+    gutenberg_agent_id: '3086'
+    url: http://www.gutenberg.org/2009/agents/3086
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Marsh
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Georgian Poetry 1920-22
+url: http://www.gutenberg.org/ebooks/9640
