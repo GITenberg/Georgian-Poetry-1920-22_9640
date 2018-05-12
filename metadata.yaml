@@ -1,5 +1,5 @@
 _repo: Georgian-Poetry-1920-22_9640
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Georgian Poetry 1920-1922
 contributor:
   contributors:
@@ -7,19 +7,19 @@ contributor:
     aliases:
     - Squire, Jack Collings
     - Squire, J. C. (John Collings)
-    birthdate: &id001 1884
+    birthdate: 1884
     deathdate: 1958
     gutenberg_agent_id: '35258'
     url: http://www.gutenberg.org/2009/agents/35258
     wikipedia: http://en.wikipedia.org/wiki/J._C._Squire
   - agent_name: Shanks, Edward
-    birthdate: &id005 1892
-    deathdate: &id007 1953
+    birthdate: 1892
+    deathdate: 1953
     gutenberg_agent_id: '32785'
     url: http://www.gutenberg.org/2009/agents/32785
   - agent_name: Young, Francis Brett
     alias: Young, F. Brett (Francis Brett)
-    birthdate: *id001
+    birthdate: 1884
     deathdate: 1954
     gutenberg_agent_id: '31627'
     url: http://www.gutenberg.org/2009/agents/31627
@@ -29,7 +29,7 @@ contributor:
     - Blunden, Edmund Charles
     - Blunden, E. C. (Edmund Charles)
     birthdate: 1896
-    deathdate: &id002 1974
+    deathdate: 1974
     gutenberg_agent_id: '35250'
     url: http://www.gutenberg.org/2009/agents/35250
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Blunden
@@ -50,7 +50,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Richard_Hughes_(writer)
   - agent_name: Nichols, Robert
     alias: Nichols, Robert Malise Bowyer
-    birthdate: &id004 1893
+    birthdate: 1893
     deathdate: 1944
     gutenberg_agent_id: '35254'
     url: http://www.gutenberg.org/2009/agents/35254
@@ -69,8 +69,8 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1108
     wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
   - agent_name: Armstrong, Martin
-    birthdate: &id003 1882
-    deathdate: *id002
+    birthdate: 1882
+    deathdate: 1974
     gutenberg_agent_id: '35249'
     url: http://www.gutenberg.org/2009/agents/35249
     wikipedia: http://en.wikipedia.org/wiki/Martin_Armstrong_(writer)
@@ -87,7 +87,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/35253
     wikipedia: http://en.wikipedia.org/wiki/Harold_Monro
   - agent_name: Drinkwater, John
-    birthdate: *id003
+    birthdate: 1882
     deathdate: 1937
     gutenberg_agent_id: '1820'
     url: http://www.gutenberg.org/2009/agents/1820
@@ -106,8 +106,8 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/35257
     wikipedia: http://en.wikipedia.org/wiki/Peter_Quennell
   - agent_name: Prewett, Frank
-    birthdate: *id004
-    deathdate: &id006 1962
+    birthdate: 1893
+    deathdate: 1962
     gutenberg_agent_id: '35256'
     url: http://www.gutenberg.org/2009/agents/35256
     wikipedia: http://en.wikipedia.org/wiki/Frank_Prewett
@@ -125,8 +125,8 @@ contributor:
     - Sackville-West, Vita
     - Nicolson, Victoria Mary Sackville-West
     - Sackville-West, Victoria Mary (Vita)
-    birthdate: *id005
-    deathdate: *id006
+    birthdate: 1892
+    deathdate: 1962
     gutenberg_agent_id: '34850'
     url: http://www.gutenberg.org/2009/agents/34850
     wikipedia: http://en.wikipedia.org/wiki/Vita_Sackville-West
@@ -146,19 +146,24 @@ contributor:
   - agent_name: Gibson, Wilfrid Wilson
     alias: Gibson, W. W. (Wilfrid Wilson)
     birthdate: 1878
-    deathdate: *id006
+    deathdate: 1962
     gutenberg_agent_id: '8220'
     url: http://www.gutenberg.org/2009/agents/8220
     wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Marsh, Edward Howard, Sir
     birthdate: 1872
-    deathdate: *id007
+    deathdate: 1953
     gutenberg_agent_id: '3086'
     url: http://www.gutenberg.org/2009/agents/3086
     wikipedia: http://en.wikipedia.org/wiki/Edward_Marsh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9640#Georgian-Poetry-1920-22
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
